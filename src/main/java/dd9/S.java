@@ -10,7 +10,7 @@ import java.io.OutputStream;
 import java.util.Arrays;
 
 /**
- * @author Administrator
+ * @author dufei
  */
 public class S {
   public static void main(String[] args) throws IOException {
